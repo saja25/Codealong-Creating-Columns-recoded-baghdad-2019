@@ -108,6 +108,9 @@ figcaption {
 .first{
   margin-left: 0%;
 }
+.marg{
+  margin:4px;
+}
 #social{
   position: fixed;
   top: 200px;
